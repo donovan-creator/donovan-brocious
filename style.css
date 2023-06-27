@@ -1,9 +1,4 @@
-body
-{
- margin: 0;
- padding: 0;
- height: 100vh;
-}
-#particles-js
-{height: 100%
+#particles-js{
+    background:navy;
+    height:400px;
 }
