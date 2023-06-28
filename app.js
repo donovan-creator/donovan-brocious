@@ -14,7 +14,7 @@ particlesJS.load('particles-js', 'particles.json', function() {
 particlesJS('particles-js',
   
   {
-    "particles": {
+    "particles": { 
       "number": {
         "value": 80,
         "density": {
@@ -23,7 +23,7 @@ particlesJS('particles-js',
         }
       },
       "color": {
-        "value": "#ffffff"
+        "value": "#ffff00"
       },
       "shape": {
         "type": "circle",
