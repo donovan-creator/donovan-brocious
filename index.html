@@ -40,15 +40,16 @@
     </div>
   
     <!-- Import Particles.js and app.js files -->
-    <script>particlesJS.load('particles-js', 'particles.json', function() {
-        console.log('particles.js loaded - callback');
-      });</script>
+
     <script src=
         "particles.js-master/particles.js">
     </script>
     <script src=
         "/particles.js-master/demo/js/app.js">
     </script>
+        <script>
+    particlesJS.load('particles-js', 'particles.js-master/demo/particles.json');
+      </script>
 </body>
   
 </html>
