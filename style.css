@@ -12,12 +12,11 @@ body {
 }
 .heading h1 {
     color: white;
-    font-size: 5vw;
+    font-size: 70px;
 }
 .heading h3 {
     color: white;
-    font-size: 2vw;
-    font-weight: 300;
+    font-size: 20px;
 }
 #particles-js {
     background: rgb(0, 0, 80);
@@ -30,7 +29,7 @@ body {
     color:white;
     background-color: transparent;
     border:transparent;
-    font-size: 1.5vw;
+    font-size: 40px;
     font-weight: bold;
     cursor: pointer;
     position: absolute;
@@ -43,7 +42,7 @@ body {
     color:white;
     background-color: transparent;
     border:transparent;
-    font-size: 1.5vw;
+    font-size: 40px;
     font-weight: bold;
     cursor: pointer;
     position: absolute;
