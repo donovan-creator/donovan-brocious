@@ -21,7 +21,7 @@ body {
 #particles-js {
     background: rgb(0, 0, 80);
     height: 100vh;
-    overflow: hidden;
+    overflow: auto;
 }
 .buttons{
     margin-top: 10px;
