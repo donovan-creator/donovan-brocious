@@ -14,14 +14,14 @@ body {
     color: white;
     font-size: 70px;
 }
-.heading h3 {
+.heading h2 {
     color: white;
     font-size: 20px;
 }
 #particles-js {
     background: rgb(0, 0, 80);
     height: 100vh;
-    overflow: auto;
+    overflow: hidden;
 }
 .buttons{
     margin-top: 10px;
@@ -55,11 +55,22 @@ body {
     margin-right:auto;
 }
 
-@media (max-width: 475px){
-.container{
-    max-width:475px;
+@media (max-width: 840px){
+.heading h1{
+    font-size:50px;
+}
+.heading h2{
+    font-size: 15px;
 }
 }
+@media (max-width: 600px){
+    .heading h1{
+        font-size:40px;
+    }
+    .heading h2{
+        font-size: 12px;
+    }
+    }
 
 
 
