@@ -223,10 +223,10 @@ body {
     }
 }
 
-@media (max-width: 610px){
+@media (max-width: 900px){
 
     .headingAbout p{
-        font-size: 5px;
+        font-size: 15px;
     }
     .headingAbout h1{
         font-size: 40px;
