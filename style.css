@@ -226,7 +226,7 @@ body {
 @media (max-width: 610px){
 
     .headingAbout p{
-        font-size: 15px;
+        font-size: 10px;
     }
     .headingAbout h1{
         font-size: 40px;
