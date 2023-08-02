@@ -11,14 +11,18 @@ body {
     text-align: center;
     top: 30vh;
     width: 100vw;
+    overflow: hidden;
 }
 .heading h1 {
     color: white;
     font-size: 70px;
+    overflow: hidden;
 }
 .heading h2 {
     color: white;
     font-size: 20px;
+    overflow: hidden;
+
 }
 #particles-js {
     background: rgb(0, 0, 80);
@@ -36,6 +40,8 @@ body {
     font-weight: bold;
     cursor: pointer;
     white-space: nowrap;
+    overflow: hidden;
+
 }
 
 .buttons2{
@@ -49,11 +55,15 @@ body {
     font-weight: bold;
     cursor: pointer;
     position: relative;
+    overflow: hidden;
+
 }
 .container{
     width:100%;
     margin-left:auto;
     margin-right:auto;
+    overflow: hidden;
+
 }
 
 @media (max-width: 840px){
