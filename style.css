@@ -223,7 +223,7 @@ body {
     }
 }
 
-@media (max-width: 700px){
+@media (max-width: 800px){
 
     .headingAbout p{
         font-size: 15px;
