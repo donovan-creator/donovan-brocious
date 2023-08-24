@@ -208,7 +208,7 @@
         background-color: transparent
     }
     .headingAbout p{
-        font-size: 25px;
+        font-size: 20px;
     }
     .headingAbout h1{
         font-size: 60px;
@@ -226,7 +226,7 @@
 @media (max-width: 800px){
 
     .headingAbout p{
-        font-size: 12px;
+        font-size: 15px;
     }
     .headingAbout h1{
         font-size: 40px;
