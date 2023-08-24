@@ -90,7 +90,7 @@
 
 
 .headingAbout {
-    position: fixed;
+    position: absolute;
     text-align: center;
     top: 5vh;
     width: 100vw;
@@ -117,6 +117,7 @@
     margin: 0;
     padding: 0;
     font-size: 20px;
+    overflow: hidden;
 }
 @keyframes ball{
     0% {left:60vw;top:0px;}
@@ -227,7 +228,7 @@
 @media (max-width: 800px){
 
     .headingAbout p{
-        font-size: 15px;
+        font-size: 14px;
     }
     .headingAbout h1{
         font-size: 40px;
