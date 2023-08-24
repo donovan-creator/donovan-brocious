@@ -114,7 +114,6 @@
 .aboutMeBody{
     background-color: rgb(0,0,90) ;
     position: relative;
-    overflow: hidden;
     margin: 0;
     padding: 0;
     font-size: 20px;
